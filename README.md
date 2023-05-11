@@ -1,2 +1,5 @@
-# Cpp-CongoLine-LL
-Linked List data structure used to simulate a zombies congo line where zombies are added, removed, and shuffled in different ways
+# Cpp-islandGenerator
+
+simply run using g++ and a.out
+
+instructions to generate island are printed via a menu in the program
