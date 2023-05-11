@@ -1,4 +1,4 @@
-# Cpp-islandGenerator
+# Cpp-Island-Generator
 
 simply run using g++ and a.out
 
