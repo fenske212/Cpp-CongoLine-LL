@@ -2,4 +2,4 @@
 
 simply run using g++ and a.out
 
-instructions to generate island are printed via a menu in the program
+instructions to generate island are given via a menu in the program
